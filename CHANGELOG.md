@@ -1,3 +1,6 @@
+10/27/2025 (v4.1):
+- Fix VcAudioSourceOutput non-deterministic initialization order bug that caused NREs. Thanks @ctxpower on Discord!
+
 10/15/2025 (v4):
 - Netcode for GameObjects support by @ERisberg. Thank you so much!
 - Netick support by @Milk-Drinker01. Thank you so much!
